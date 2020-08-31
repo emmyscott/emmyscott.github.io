@@ -1,5 +1,4 @@
-# emmyscott.github.io
-<h1> Profile Page </h>
+<h1>Profile Page</h1>
 <p> 
   <p> My name is Morgan Scott </P>
 <p> 
