@@ -4,7 +4,7 @@
 <p> 
   <p> But, I perfer to be called Emmy </p>
 <br>
-<p> I think this class is cool </P>
+<p> I think this class is <em><strong>cool</strong></em> </P>
 <br>
 <h1>My Name is Inigo Montoya</h1>
 <p>You killed my father.</p>
